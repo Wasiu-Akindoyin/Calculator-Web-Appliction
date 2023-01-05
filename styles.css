@@ -1,0 +1,52 @@
+/*UNIVERSAL SELECTOR STYLING STARTS HERE*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*BODY STYLING STARTS HERE*/
+body{
+	background-image: url(./pexels-allec-gomes-7977093.jpg);
+	background-size: cover;
+	font-weight: bold;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	margin-top: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 60px;
+}
+
+/*BUTTONS STYLING STARTS HERE*/
+button{
+	border: none;
+	padding: 18px;
+	text-transform: uppercase;
+	font-size: 22px;
+	color: black;
+	font-weight: bold;
+	border-radius: 2px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	letter-spacing: 2px;
+	font-family: monospace;
+}
+
+/*ANSWER ELEMENT STYLING STARTS HERE*/
+#answer-el{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+/*MAIN FOOTER STYLING STARTS HERE*/
+#main-footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
